@@ -1,0 +1,21 @@
+{
+    "name": "taqmaninw/seostat",
+    "description": "",
+    "authors": [
+        {
+            "name": "taqmaninw",
+            "email": "taqmaninw@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.0.x"
+    },
+    "autoload": {
+        "psr-0": {
+            "Taqmaninw\\Seostat": "src/"
+        },
+        "classmap":["src/"]
+    },
+    "minimum-stability": "dev"
+}
