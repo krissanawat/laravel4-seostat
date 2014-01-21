@@ -1,10 +1,8 @@
 laravel4-seostat
 ================
 
-simple package with eyecatcher seostat
-warning this package isn't complete namespace fixing must first important fix
+A simple package for Laravel 4 using [eyecatchup's SEOstats](https://github.com/eyecatchup/SEOstats) library.  
 
-todo 
-fix many namespace
+NOTE: This package might contain some bugs.  
 
-
+(C) 2013 [@taqmaninw](https://github.com/taqmaninw)
